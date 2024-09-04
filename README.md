@@ -4,6 +4,9 @@ GIMP Script-Fu script for cleaning the whiteboard images.  This version is
 intended to be used non-interactively, in batch mode.  Currently processes only
 one image.
 
+Adopted from [this script](https://github.com/kyleburton/sandbox/blob/master/gimp/clean-whiteboard-photo.scm)
+If you want to do the same from GUI, use the linked one instead.
+
 ## Install
 
 Copy to the GIMP's `script-fu` directory, in my case it's
